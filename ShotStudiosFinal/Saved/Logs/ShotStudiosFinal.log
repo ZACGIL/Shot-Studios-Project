@@ -1420,3 +1420,204 @@ LogInit: Object subsystem initialized
 [2018.02.26-03.48.10:039][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Maps/TopDownExampleMap.umap
 [2018.02.26-03.48.15:827][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2018.02.26-03.48.15:867][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.49.40:782][777]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.49.40:795][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.49.40:796][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.49.40:796][777]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:49:40 am)
+[2018.02.26-03.49.40:796][777]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.49.40:811][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015303s)
+[2018.02.26-03.49.40:812][777]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.49.40:812][777]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2018.02.26-03.49.40:812][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016614s)
+[2018.02.26-03.49.40:847][777]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.49.40:859][777]LogInit: FAudioDevice initialized.
+[2018.02.26-03.49.40:893][777]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.49.40:895][777]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.49.40
+[2018.02.26-03.49.40:896][777]LogWorld: Bringing up level for play took: 0.001667
+[2018.02.26-03.49.40:897][777]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.242
+[2018.02.26-03.49.40:897][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.50.07:857][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.50.07:892][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.51.14:511][759]LogSavePackage: Save=47.42ms
+[2018.02.26-03.51.14:511][759]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Saved/TopDownCharacter71C2E3B9446AFED9B09948B75CB3BBA3.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.26-03.51.14:517][759]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.26-03.51.14:999][815]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.26-03.51.17:954][ 79]LogSavePackage: Save=148.90ms
+[2018.02.26-03.51.17:954][ 79]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Saved/TopDownExampleMapB07D0A8B4E0F7CBF9B3E7BAF8ECAC1F9.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-03.51.17:959][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-03.51.18:606][133]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.51.18:625][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.51.18:625][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.51.18:625][133]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:51:18 am)
+[2018.02.26-03.51.18:625][133]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.51.18:640][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014532s)
+[2018.02.26-03.51.18:640][133]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.51.18:641][133]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.02.26-03.51.18:641][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016007s)
+[2018.02.26-03.51.18:680][133]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.51.18:693][133]LogInit: FAudioDevice initialized.
+[2018.02.26-03.51.18:723][133]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.51.18:726][133]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.51.18
+[2018.02.26-03.51.18:726][133]LogWorld: Bringing up level for play took: 0.001774
+[2018.02.26-03.51.18:727][133]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.073
+[2018.02.26-03.51.18:728][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.53.07:810][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.53.07:847][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.53.08:421][541]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.53.08:433][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.53.08:433][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.53.08:434][541]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:53:08 am)
+[2018.02.26-03.53.08:434][541]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.53.08:446][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012752s)
+[2018.02.26-03.53.08:447][541]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.53.08:447][541]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2018.02.26-03.53.08:448][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014083s)
+[2018.02.26-03.53.08:480][541]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.53.08:491][541]LogInit: FAudioDevice initialized.
+[2018.02.26-03.53.08:526][541]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.53.08:529][541]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.53.08
+[2018.02.26-03.53.08:529][541]LogWorld: Bringing up level for play took: 0.001611
+[2018.02.26-03.53.08:530][541]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.124
+[2018.02.26-03.53.08:531][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.53.26:374][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.53.26:410][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.54.03:312][ 46]LogSavePackage: Save=51.22ms
+[2018.02.26-03.54.03:312][ 46]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Saved/TopDownCharacterCC0C94B6452472783D2CF0BFC7F1A3A8.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.26-03.54.03:316][ 46]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.26-03.54.03:849][108]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.26-03.54.06:333][314]LogSavePackage: Save=147.37ms
+[2018.02.26-03.54.06:333][314]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Saved/TopDownExampleMap5B3ECE9B45626908F3FAB6942DD35E39.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-03.54.06:339][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-03.54.07:115][392]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.54.07:132][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.54.07:132][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.54.07:132][392]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:54:07 am)
+[2018.02.26-03.54.07:133][392]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.54.07:145][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012865s)
+[2018.02.26-03.54.07:146][392]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.54.07:147][392]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2018.02.26-03.54.07:147][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014302s)
+[2018.02.26-03.54.07:178][392]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.54.07:189][392]LogInit: FAudioDevice initialized.
+[2018.02.26-03.54.07:225][392]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.54.07:227][392]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.54.07
+[2018.02.26-03.54.07:228][392]LogWorld: Bringing up level for play took: 0.001750
+[2018.02.26-03.54.07:229][392]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.576
+[2018.02.26-03.54.07:229][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.54.23:062][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.54.23:097][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.00:445][720]LogSavePackage: Save=47.71ms
+[2018.02.26-03.55.00:445][720]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Saved/TopDownCharacter8327526F4924BBA71669ED9A208319EF.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.26-03.55.00:450][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.26-03.55.00:957][779]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.26-03.55.03:575][  8]LogSavePackage: Save=146.68ms
+[2018.02.26-03.55.03:575][  8]LogSavePackage: Moving '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Saved/TopDownExampleMap20CD80A145D5A6702F608E99B9D93C6C.tmp' to '../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.26-03.55.03:580][  8]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/zgilfoyle/Documents/GitHub/Shot-Studios-Project/ShotStudiosFinal/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.26-03.55.04:421][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.55.04:439][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.04:439][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.55.04:440][ 97]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:55:04 am)
+[2018.02.26-03.55.04:440][ 97]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.55.04:453][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013493s)
+[2018.02.26-03.55.04:454][ 97]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.55.04:454][ 97]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.02.26-03.55.04:455][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014935s)
+[2018.02.26-03.55.04:487][ 97]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.55.04:498][ 97]LogInit: FAudioDevice initialized.
+[2018.02.26-03.55.04:528][ 97]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.55.04:530][ 97]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.55.04
+[2018.02.26-03.55.04:530][ 97]LogWorld: Bringing up level for play took: 0.001666
+[2018.02.26-03.55.04:531][ 97]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.121
+[2018.02.26-03.55.04:531][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.22:045][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.22:083][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.24:964][530]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.55.24:979][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.24:979][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.55.24:979][530]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:55:24 am)
+[2018.02.26-03.55.24:979][530]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.55.24:992][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012312s)
+[2018.02.26-03.55.24:993][530]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.55.24:993][530]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.02.26-03.55.24:993][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013521s)
+[2018.02.26-03.55.25:026][530]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.55.25:037][530]LogInit: FAudioDevice initialized.
+[2018.02.26-03.55.25:070][530]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.55.25:073][530]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.55.25
+[2018.02.26-03.55.25:073][530]LogWorld: Bringing up level for play took: 0.001537
+[2018.02.26-03.55.25:074][530]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.422
+[2018.02.26-03.55.25:075][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.26:319][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.55.26:350][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.58.36:863][508]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.58.36:877][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.58.36:877][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.58.36:877][508]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:58:36 am)
+[2018.02.26-03.58.36:877][508]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.58.36:892][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015225s)
+[2018.02.26-03.58.36:893][508]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.58.36:893][508]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.02.26-03.58.36:894][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016550s)
+[2018.02.26-03.58.36:932][508]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.58.36:944][508]LogInit: FAudioDevice initialized.
+[2018.02.26-03.58.36:978][508]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.58.36:981][508]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.58.36
+[2018.02.26-03.58.36:981][508]LogWorld: Bringing up level for play took: 0.001655
+[2018.02.26-03.58.36:982][508]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.333
+[2018.02.26-03.58.36:983][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.58.52:221][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.58.52:255][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.58.53:727][505]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-03.58.53:742][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.58.53:742][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-03.58.53:742][505]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 1:58:53 am)
+[2018.02.26-03.58.53:742][505]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-03.58.53:755][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012578s)
+[2018.02.26-03.58.53:756][505]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-03.58.53:756][505]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2018.02.26-03.58.53:756][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013791s)
+[2018.02.26-03.58.53:788][505]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-03.58.53:799][505]LogInit: FAudioDevice initialized.
+[2018.02.26-03.58.53:831][505]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-03.58.53:833][505]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-14.58.53
+[2018.02.26-03.58.53:834][505]LogWorld: Bringing up level for play took: 0.001921
+[2018.02.26-03.58.53:835][505]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.814
+[2018.02.26-03.58.53:835][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.59.22:345][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-03.59.22:380][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.08:391][465]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-04.00.08:404][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.08:405][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-04.00.08:405][465]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 2:00:08 am)
+[2018.02.26-04.00.08:405][465]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-04.00.08:419][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013663s)
+[2018.02.26-04.00.08:419][465]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-04.00.08:420][465]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2018.02.26-04.00.08:420][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014991s)
+[2018.02.26-04.00.08:452][465]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-04.00.08:464][465]LogInit: FAudioDevice initialized.
+[2018.02.26-04.00.08:493][465]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-04.00.08:495][465]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-15.00.08
+[2018.02.26-04.00.08:496][465]LogWorld: Bringing up level for play took: 0.001841
+[2018.02.26-04.00.08:497][465]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.151
+[2018.02.26-04.00.08:498][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.32:820][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.32:855][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.36:417][803]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.26-04.00.36:432][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.36:432][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.26-04.00.36:432][803]PIE: New page: PIE session: TopDownExampleMap (27 Feb 2018 2:00:36 am)
+[2018.02.26-04.00.36:433][803]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.26-04.00.36:445][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012742s)
+[2018.02.26-04.00.36:446][803]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.26-04.00.36:447][803]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.02.26-04.00.36:447][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014209s)
+[2018.02.26-04.00.36:483][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.26-04.00.36:494][803]LogInit: FAudioDevice initialized.
+[2018.02.26-04.00.36:524][803]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.26-04.00.36:527][803]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.26-15.00.36
+[2018.02.26-04.00.36:527][803]LogWorld: Bringing up level for play took: 0.002114
+[2018.02.26-04.00.36:528][803]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.12
+[2018.02.26-04.00.36:529][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.36:977][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.26-04.00.37:013][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
